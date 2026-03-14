@@ -1,8 +1,6 @@
 # Resume
 
-Kim Eaton Sullivan  
-AI Systems & UX Designer
-
-[Download Resume](Sully-Jan-2026-Resume.pdf)
+Kim Eaton
+[Download my resume](Kim%20E.%20Resume.pdf)
 
 
